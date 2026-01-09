@@ -38,6 +38,11 @@ We believe in the power of community. We welcome contributions of all kinds, fro
 
 To get started, please read our [contributing guidelines](CONTRIBUTING.md).
 
+
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-algolia&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-algolia&type=date&legend=top-left)
+
 ## License
 
 Open Algolia is licensed under the [MIT License](LICENSE).
