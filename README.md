@@ -51,7 +51,7 @@ To get started, please read our [contributing guidelines](CONTRIBUTING.md).
 
 ## 🌟 Stay Connected
 
-*   [Follow us on Twitter](https://twitter.com/your-twitter)
+*   [Follow us on Twitter](https://twitter.com/ishandutta2007)
 *   [Join our Discord](https://discord.com/invite/jc4xtF58Ve)
 *   [Subscribe to our Newsletter](https://your-newsletter.com)
 
