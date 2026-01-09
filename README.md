@@ -52,9 +52,10 @@ To get started, please read our [contributing guidelines](CONTRIBUTING.md).
 ## 🌟 Stay Connected
 
 *   [Follow us on Twitter](https://twitter.com/your-twitter)
-*   [Join our Discord](https://discord.gg/your-discord)
+*   [Join our Discord](https://discord.com/invite/jc4xtF58Ve)
 *   [Subscribe to our Newsletter](https://your-newsletter.com)
 
+   
 ### ✨ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-algolia&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-algolia&type=date&legend=top-left)
